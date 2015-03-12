@@ -3,6 +3,7 @@
 import media
 import fresh_tomatoes
 
+# Create movie objects
 pacific_rim = media.Movie("Pacific Rim",
                         "Robots fight aliens",
                         "http://content7.flixster.com/movie/11/17/39/11173933_800.jpg",
